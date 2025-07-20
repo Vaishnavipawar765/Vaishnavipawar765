@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there, I'm  Vaishnavi Pawar!
 
-<!--
-**Vaishnavipawar765/Vaishnavipawar765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Diploma student in Information Technology (3rd Year), currently pursuing a 3-month internship in *Android App Development* under the *MSBTE curriculum*.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Internship Highlights:
+- 📱 Developed real-world Android apps:
+  - 🎵 Music App
+  - 🎤 Audio Recorder App
+  - ☀ Weather App
+  - 💰 Expense Tracker App
+- 🛠 Tech Stack: Java, Android Studio, XML, SQLite, Firebase (basic)
+- 📅 Duration: 3 Months (MSBTE guided project-based internship)
+
+---
+
+## 💡 Skills:
+- Java Programming
+- Android App Development
+- UI Design in Android Studio
+- Firebase (Basics), SQLite
+- Git & GitHub
+
+---
+
+## 🚀 Currently Learning:
+- Advanced UI/UX Design in Android
+- Firebase Integration
+- App Deployment on Play Store
+
+---
+
+## 📫 Connect with Me:
+
+- 🔗 LinkedIn: [Vaishnavi Pawar](www.linkedin.com/in/
+vaishnavi-pawar-696b32369)
+
+---
+
+🌱 I'm passionate about building real-world mobile apps and continuously improving my Android development skills.
